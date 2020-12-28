@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: GSThinkFast
+  title: Think Fast
+  author: GhostSalt
+  description: "Someone took the five second rule too far.\n\r\nPress the button to
+    deactivate the module. How hard could that be? ||:)||\n\r\nTwitch Plays included,
+    once again.\n\nNote for Twitch Plays: Please change the timer to something more
+    appropriate in mod settings. I recommend 20-30 secs."
+  version: 1.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: 213f408147c5cd7428b0e3b96f9da887, type: 3}
